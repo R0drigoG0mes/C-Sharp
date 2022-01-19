@@ -1,0 +1,7 @@
+C:\Users\User\Documents\Rodrigo\C# (Scripts)\Script05\Script05\bin\Debug\Script05.exe.config
+C:\Users\User\Documents\Rodrigo\C# (Scripts)\Script05\Script05\bin\Debug\Script05.exe
+C:\Users\User\Documents\Rodrigo\C# (Scripts)\Script05\Script05\bin\Debug\Script05.pdb
+C:\Users\User\Documents\Rodrigo\C# (Scripts)\Script05\Script05\obj\Debug\Script05.csprojAssemblyReference.cache
+C:\Users\User\Documents\Rodrigo\C# (Scripts)\Script05\Script05\obj\Debug\Script05.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Rodrigo\C# (Scripts)\Script05\Script05\obj\Debug\Script05.exe
+C:\Users\User\Documents\Rodrigo\C# (Scripts)\Script05\Script05\obj\Debug\Script05.pdb

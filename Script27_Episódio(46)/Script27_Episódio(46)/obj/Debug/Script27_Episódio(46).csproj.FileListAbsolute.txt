@@ -1,0 +1,11 @@
+C:\Users\User\Documents\Rodrigo\C# (Scripts)\Script27_Episódio(46)\Script27_Episódio(46)\bin\Debug\Script27_Episódio(46).exe.config
+C:\Users\User\Documents\Rodrigo\C# (Scripts)\Script27_Episódio(46)\Script27_Episódio(46)\bin\Debug\Script27_Episódio(46).exe
+C:\Users\User\Documents\Rodrigo\C# (Scripts)\Script27_Episódio(46)\Script27_Episódio(46)\bin\Debug\Script27_Episódio(46).pdb
+C:\Users\User\Documents\Rodrigo\C# (Scripts)\Script27_Episódio(46)\Script27_Episódio(46)\obj\Debug\Script27_Episódio(46).csprojAssemblyReference.cache
+C:\Users\User\Documents\Rodrigo\C# (Scripts)\Script27_Episódio(46)\Script27_Episódio(46)\obj\Debug\Script27_Episódio_46_.Frm1.resources
+C:\Users\User\Documents\Rodrigo\C# (Scripts)\Script27_Episódio(46)\Script27_Episódio(46)\obj\Debug\Script27_Episódio_46_.Frm2.resources
+C:\Users\User\Documents\Rodrigo\C# (Scripts)\Script27_Episódio(46)\Script27_Episódio(46)\obj\Debug\Script27_Episódio_46_.Properties.Resources.resources
+C:\Users\User\Documents\Rodrigo\C# (Scripts)\Script27_Episódio(46)\Script27_Episódio(46)\obj\Debug\Script27_Episódio(46).csproj.GenerateResource.cache
+C:\Users\User\Documents\Rodrigo\C# (Scripts)\Script27_Episódio(46)\Script27_Episódio(46)\obj\Debug\Script27_Episódio(46).csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Rodrigo\C# (Scripts)\Script27_Episódio(46)\Script27_Episódio(46)\obj\Debug\Script27_Episódio(46).exe
+C:\Users\User\Documents\Rodrigo\C# (Scripts)\Script27_Episódio(46)\Script27_Episódio(46)\obj\Debug\Script27_Episódio(46).pdb

@@ -1,0 +1,10 @@
+C:\Users\User\Documents\Rodrigo\C# (Scripts)\Script15\Script15\bin\Debug\Script15.exe.config
+C:\Users\User\Documents\Rodrigo\C# (Scripts)\Script15\Script15\bin\Debug\Script15.exe
+C:\Users\User\Documents\Rodrigo\C# (Scripts)\Script15\Script15\bin\Debug\Script15.pdb
+C:\Users\User\Documents\Rodrigo\C# (Scripts)\Script15\Script15\obj\Debug\Script15.csprojAssemblyReference.cache
+C:\Users\User\Documents\Rodrigo\C# (Scripts)\Script15\Script15\obj\Debug\Script15.Form1.resources
+C:\Users\User\Documents\Rodrigo\C# (Scripts)\Script15\Script15\obj\Debug\Script15.Properties.Resources.resources
+C:\Users\User\Documents\Rodrigo\C# (Scripts)\Script15\Script15\obj\Debug\Script15.csproj.GenerateResource.cache
+C:\Users\User\Documents\Rodrigo\C# (Scripts)\Script15\Script15\obj\Debug\Script15.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Rodrigo\C# (Scripts)\Script15\Script15\obj\Debug\Script15.exe
+C:\Users\User\Documents\Rodrigo\C# (Scripts)\Script15\Script15\obj\Debug\Script15.pdb

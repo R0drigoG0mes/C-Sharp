@@ -1,0 +1,9 @@
+C:\Users\User\Documents\Rodrigo\C# (Scripts)\Script52_Episodio(170)_numeros\Script52_Episodio(170)_numeros\bin\Debug\Script52_Episodio(170)_numeros.exe
+C:\Users\User\Documents\Rodrigo\C# (Scripts)\Script52_Episodio(170)_numeros\Script52_Episodio(170)_numeros\bin\Debug\Script52_Episodio(170)_numeros.pdb
+C:\Users\User\Documents\Rodrigo\C# (Scripts)\Script52_Episodio(170)_numeros\Script52_Episodio(170)_numeros\obj\Debug\Script52_Episodio(170)_numeros.csprojAssemblyReference.cache
+C:\Users\User\Documents\Rodrigo\C# (Scripts)\Script52_Episodio(170)_numeros\Script52_Episodio(170)_numeros\obj\Debug\Script52_Episodio_170__numeros.Form1.resources
+C:\Users\User\Documents\Rodrigo\C# (Scripts)\Script52_Episodio(170)_numeros\Script52_Episodio(170)_numeros\obj\Debug\Script52_Episodio_170__numeros.Properties.Resources.resources
+C:\Users\User\Documents\Rodrigo\C# (Scripts)\Script52_Episodio(170)_numeros\Script52_Episodio(170)_numeros\obj\Debug\Script52_Episodio(170)_numeros.csproj.GenerateResource.cache
+C:\Users\User\Documents\Rodrigo\C# (Scripts)\Script52_Episodio(170)_numeros\Script52_Episodio(170)_numeros\obj\Debug\Script52_Episodio(170)_numeros.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Rodrigo\C# (Scripts)\Script52_Episodio(170)_numeros\Script52_Episodio(170)_numeros\obj\Debug\Script52_Episodio(170)_numeros.exe
+C:\Users\User\Documents\Rodrigo\C# (Scripts)\Script52_Episodio(170)_numeros\Script52_Episodio(170)_numeros\obj\Debug\Script52_Episodio(170)_numeros.pdb

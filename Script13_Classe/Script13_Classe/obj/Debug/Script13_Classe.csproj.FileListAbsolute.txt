@@ -1,0 +1,10 @@
+C:\Users\User\Documents\Rodrigo\C# (Scripts)\Script13_Classe\Script13_Classe\bin\Debug\Script13_Classe.exe.config
+C:\Users\User\Documents\Rodrigo\C# (Scripts)\Script13_Classe\Script13_Classe\bin\Debug\Script13_Classe.exe
+C:\Users\User\Documents\Rodrigo\C# (Scripts)\Script13_Classe\Script13_Classe\bin\Debug\Script13_Classe.pdb
+C:\Users\User\Documents\Rodrigo\C# (Scripts)\Script13_Classe\Script13_Classe\obj\Debug\Script13_Classe.csprojAssemblyReference.cache
+C:\Users\User\Documents\Rodrigo\C# (Scripts)\Script13_Classe\Script13_Classe\obj\Debug\Script13_Classe.Form1.resources
+C:\Users\User\Documents\Rodrigo\C# (Scripts)\Script13_Classe\Script13_Classe\obj\Debug\Script13_Classe.Properties.Resources.resources
+C:\Users\User\Documents\Rodrigo\C# (Scripts)\Script13_Classe\Script13_Classe\obj\Debug\Script13_Classe.csproj.GenerateResource.cache
+C:\Users\User\Documents\Rodrigo\C# (Scripts)\Script13_Classe\Script13_Classe\obj\Debug\Script13_Classe.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Rodrigo\C# (Scripts)\Script13_Classe\Script13_Classe\obj\Debug\Script13_Classe.exe
+C:\Users\User\Documents\Rodrigo\C# (Scripts)\Script13_Classe\Script13_Classe\obj\Debug\Script13_Classe.pdb

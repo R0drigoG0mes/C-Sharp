@@ -1,0 +1,9 @@
+C:\Users\User\Documents\Rodrigo\C# (Scripts)\Script51_Episodio(167)\Script51_Episodio(167)\bin\Debug\Script51_Episodio(167).exe
+C:\Users\User\Documents\Rodrigo\C# (Scripts)\Script51_Episodio(167)\Script51_Episodio(167)\bin\Debug\Script51_Episodio(167).pdb
+C:\Users\User\Documents\Rodrigo\C# (Scripts)\Script51_Episodio(167)\Script51_Episodio(167)\obj\Debug\Script51_Episodio(167).csprojAssemblyReference.cache
+C:\Users\User\Documents\Rodrigo\C# (Scripts)\Script51_Episodio(167)\Script51_Episodio(167)\obj\Debug\Script51_Episodio_167_.Form1.resources
+C:\Users\User\Documents\Rodrigo\C# (Scripts)\Script51_Episodio(167)\Script51_Episodio(167)\obj\Debug\Script51_Episodio_167_.Properties.Resources.resources
+C:\Users\User\Documents\Rodrigo\C# (Scripts)\Script51_Episodio(167)\Script51_Episodio(167)\obj\Debug\Script51_Episodio(167).csproj.GenerateResource.cache
+C:\Users\User\Documents\Rodrigo\C# (Scripts)\Script51_Episodio(167)\Script51_Episodio(167)\obj\Debug\Script51_Episodio(167).csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Rodrigo\C# (Scripts)\Script51_Episodio(167)\Script51_Episodio(167)\obj\Debug\Script51_Episodio(167).exe
+C:\Users\User\Documents\Rodrigo\C# (Scripts)\Script51_Episodio(167)\Script51_Episodio(167)\obj\Debug\Script51_Episodio(167).pdb

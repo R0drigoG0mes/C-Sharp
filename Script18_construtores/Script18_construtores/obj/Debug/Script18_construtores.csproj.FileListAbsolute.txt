@@ -1,0 +1,10 @@
+C:\Users\User\Documents\Rodrigo\C# (Scripts)\Script18_construtores\Script18_construtores\bin\Debug\Script18_construtores.exe.config
+C:\Users\User\Documents\Rodrigo\C# (Scripts)\Script18_construtores\Script18_construtores\bin\Debug\Script18_construtores.exe
+C:\Users\User\Documents\Rodrigo\C# (Scripts)\Script18_construtores\Script18_construtores\bin\Debug\Script18_construtores.pdb
+C:\Users\User\Documents\Rodrigo\C# (Scripts)\Script18_construtores\Script18_construtores\obj\Debug\Script18_construtores.csprojAssemblyReference.cache
+C:\Users\User\Documents\Rodrigo\C# (Scripts)\Script18_construtores\Script18_construtores\obj\Debug\Script18_construtores.Form1.resources
+C:\Users\User\Documents\Rodrigo\C# (Scripts)\Script18_construtores\Script18_construtores\obj\Debug\Script18_construtores.Properties.Resources.resources
+C:\Users\User\Documents\Rodrigo\C# (Scripts)\Script18_construtores\Script18_construtores\obj\Debug\Script18_construtores.csproj.GenerateResource.cache
+C:\Users\User\Documents\Rodrigo\C# (Scripts)\Script18_construtores\Script18_construtores\obj\Debug\Script18_construtores.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Rodrigo\C# (Scripts)\Script18_construtores\Script18_construtores\obj\Debug\Script18_construtores.exe
+C:\Users\User\Documents\Rodrigo\C# (Scripts)\Script18_construtores\Script18_construtores\obj\Debug\Script18_construtores.pdb

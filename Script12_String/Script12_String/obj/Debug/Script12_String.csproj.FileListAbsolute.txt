@@ -1,0 +1,10 @@
+C:\Users\User\Documents\Rodrigo\C# (Scripts)\Script12_String\Script12_String\bin\Debug\Script12_String.exe.config
+C:\Users\User\Documents\Rodrigo\C# (Scripts)\Script12_String\Script12_String\bin\Debug\Script12_String.exe
+C:\Users\User\Documents\Rodrigo\C# (Scripts)\Script12_String\Script12_String\bin\Debug\Script12_String.pdb
+C:\Users\User\Documents\Rodrigo\C# (Scripts)\Script12_String\Script12_String\obj\Debug\Script12_String.csprojAssemblyReference.cache
+C:\Users\User\Documents\Rodrigo\C# (Scripts)\Script12_String\Script12_String\obj\Debug\Script12_String.Form1.resources
+C:\Users\User\Documents\Rodrigo\C# (Scripts)\Script12_String\Script12_String\obj\Debug\Script12_String.Properties.Resources.resources
+C:\Users\User\Documents\Rodrigo\C# (Scripts)\Script12_String\Script12_String\obj\Debug\Script12_String.csproj.GenerateResource.cache
+C:\Users\User\Documents\Rodrigo\C# (Scripts)\Script12_String\Script12_String\obj\Debug\Script12_String.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Rodrigo\C# (Scripts)\Script12_String\Script12_String\obj\Debug\Script12_String.exe
+C:\Users\User\Documents\Rodrigo\C# (Scripts)\Script12_String\Script12_String\obj\Debug\Script12_String.pdb

@@ -1,0 +1,11 @@
+C:\Users\User\Documents\Rodrigo\C# (Scripts)\Script44_Episodio(112)\Script44_Episodio(112)\bin\Debug\Script44_Episodio(112).exe.config
+C:\Users\User\Documents\Rodrigo\C# (Scripts)\Script44_Episodio(112)\Script44_Episodio(112)\bin\Debug\Script44_Episodio(112).exe
+C:\Users\User\Documents\Rodrigo\C# (Scripts)\Script44_Episodio(112)\Script44_Episodio(112)\bin\Debug\Script44_Episodio(112).pdb
+C:\Users\User\Documents\Rodrigo\C# (Scripts)\Script44_Episodio(112)\Script44_Episodio(112)\obj\Debug\Script44_Episodio(112).csprojAssemblyReference.cache
+C:\Users\User\Documents\Rodrigo\C# (Scripts)\Script44_Episodio(112)\Script44_Episodio(112)\obj\Debug\Script44_Episodio_112_.Form1.resources
+C:\Users\User\Documents\Rodrigo\C# (Scripts)\Script44_Episodio(112)\Script44_Episodio(112)\obj\Debug\Script44_Episodio_112_.Properties.Resources.resources
+C:\Users\User\Documents\Rodrigo\C# (Scripts)\Script44_Episodio(112)\Script44_Episodio(112)\obj\Debug\Script44_Episodio(112).csproj.GenerateResource.cache
+C:\Users\User\Documents\Rodrigo\C# (Scripts)\Script44_Episodio(112)\Script44_Episodio(112)\obj\Debug\Script44_Episodio(112).csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Rodrigo\C# (Scripts)\Script44_Episodio(112)\Script44_Episodio(112)\obj\Debug\Script44_Episodio(112).exe
+C:\Users\User\Documents\Rodrigo\C# (Scripts)\Script44_Episodio(112)\Script44_Episodio(112)\obj\Debug\Script44_Episodio(112).pdb
+C:\Users\User\Documents\Rodrigo\C# (Scripts)\Script44_Episodio(112)\Script44_Episodio(112)\obj\Debug\Script44_Episodio(112).csproj.CopyComplete

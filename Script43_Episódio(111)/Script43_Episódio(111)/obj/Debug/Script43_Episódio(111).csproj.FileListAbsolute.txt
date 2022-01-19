@@ -1,0 +1,13 @@
+C:\Users\User\Documents\Rodrigo\C# (Scripts)\Script43_Episódio(111)\Script43_Episódio(111)\bin\Debug\Script43_Episódio(111).exe.config
+C:\Users\User\Documents\Rodrigo\C# (Scripts)\Script43_Episódio(111)\Script43_Episódio(111)\bin\Debug\Script43_Episódio(111).exe
+C:\Users\User\Documents\Rodrigo\C# (Scripts)\Script43_Episódio(111)\Script43_Episódio(111)\bin\Debug\Script43_Episódio(111).pdb
+C:\Users\User\Documents\Rodrigo\C# (Scripts)\Script43_Episódio(111)\Script43_Episódio(111)\bin\Debug\System.Data.SqlServerCe.dll
+C:\Users\User\Documents\Rodrigo\C# (Scripts)\Script43_Episódio(111)\Script43_Episódio(111)\bin\Debug\PT\System.Data.SqlServerCe.resources.dll
+C:\Users\User\Documents\Rodrigo\C# (Scripts)\Script43_Episódio(111)\Script43_Episódio(111)\obj\Debug\Script43_Episódio(111).csprojAssemblyReference.cache
+C:\Users\User\Documents\Rodrigo\C# (Scripts)\Script43_Episódio(111)\Script43_Episódio(111)\obj\Debug\Script43_Episódio_111_.Form1.resources
+C:\Users\User\Documents\Rodrigo\C# (Scripts)\Script43_Episódio(111)\Script43_Episódio(111)\obj\Debug\Script43_Episódio_111_.Properties.Resources.resources
+C:\Users\User\Documents\Rodrigo\C# (Scripts)\Script43_Episódio(111)\Script43_Episódio(111)\obj\Debug\Script43_Episódio(111).csproj.GenerateResource.cache
+C:\Users\User\Documents\Rodrigo\C# (Scripts)\Script43_Episódio(111)\Script43_Episódio(111)\obj\Debug\Script43_Episódio(111).csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Rodrigo\C# (Scripts)\Script43_Episódio(111)\Script43_Episódio(111)\obj\Debug\Script43_Episódio(111).csproj.CopyComplete
+C:\Users\User\Documents\Rodrigo\C# (Scripts)\Script43_Episódio(111)\Script43_Episódio(111)\obj\Debug\Script43_Episódio(111).exe
+C:\Users\User\Documents\Rodrigo\C# (Scripts)\Script43_Episódio(111)\Script43_Episódio(111)\obj\Debug\Script43_Episódio(111).pdb

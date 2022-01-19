@@ -1,0 +1,10 @@
+C:\Users\User\Documents\Rodrigo\C# (Scripts)\Script47_Episodio(138)_Imagens\Script47_Episodio(138)_Imagens\bin\Debug\Script47_Episodio(138)_Imagens.exe.config
+C:\Users\User\Documents\Rodrigo\C# (Scripts)\Script47_Episodio(138)_Imagens\Script47_Episodio(138)_Imagens\bin\Debug\Script47_Episodio(138)_Imagens.exe
+C:\Users\User\Documents\Rodrigo\C# (Scripts)\Script47_Episodio(138)_Imagens\Script47_Episodio(138)_Imagens\bin\Debug\Script47_Episodio(138)_Imagens.pdb
+C:\Users\User\Documents\Rodrigo\C# (Scripts)\Script47_Episodio(138)_Imagens\Script47_Episodio(138)_Imagens\obj\Debug\Script47_Episodio(138)_Imagens.csprojAssemblyReference.cache
+C:\Users\User\Documents\Rodrigo\C# (Scripts)\Script47_Episodio(138)_Imagens\Script47_Episodio(138)_Imagens\obj\Debug\Script47_Episodio_138__Imagens.Form1.resources
+C:\Users\User\Documents\Rodrigo\C# (Scripts)\Script47_Episodio(138)_Imagens\Script47_Episodio(138)_Imagens\obj\Debug\Script47_Episodio_138__Imagens.Properties.Resources.resources
+C:\Users\User\Documents\Rodrigo\C# (Scripts)\Script47_Episodio(138)_Imagens\Script47_Episodio(138)_Imagens\obj\Debug\Script47_Episodio(138)_Imagens.csproj.GenerateResource.cache
+C:\Users\User\Documents\Rodrigo\C# (Scripts)\Script47_Episodio(138)_Imagens\Script47_Episodio(138)_Imagens\obj\Debug\Script47_Episodio(138)_Imagens.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Rodrigo\C# (Scripts)\Script47_Episodio(138)_Imagens\Script47_Episodio(138)_Imagens\obj\Debug\Script47_Episodio(138)_Imagens.exe
+C:\Users\User\Documents\Rodrigo\C# (Scripts)\Script47_Episodio(138)_Imagens\Script47_Episodio(138)_Imagens\obj\Debug\Script47_Episodio(138)_Imagens.pdb

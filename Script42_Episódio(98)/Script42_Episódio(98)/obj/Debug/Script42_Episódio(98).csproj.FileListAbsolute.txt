@@ -1,0 +1,16 @@
+C:\Users\User\Documents\Rodrigo\C# (Scripts)\Script42_Episódio(98)\Script42_Episódio(98)\bin\Debug\Script42_Episódio(98).exe.config
+C:\Users\User\Documents\Rodrigo\C# (Scripts)\Script42_Episódio(98)\Script42_Episódio(98)\bin\Debug\Script42_Episódio(98).exe
+C:\Users\User\Documents\Rodrigo\C# (Scripts)\Script42_Episódio(98)\Script42_Episódio(98)\bin\Debug\Script42_Episódio(98).pdb
+C:\Users\User\Documents\Rodrigo\C# (Scripts)\Script42_Episódio(98)\Script42_Episódio(98)\obj\Debug\Script42_Episódio(98).csprojAssemblyReference.cache
+C:\Users\User\Documents\Rodrigo\C# (Scripts)\Script42_Episódio(98)\Script42_Episódio(98)\obj\Debug\Script42_Episódio_98_.frmMenu.resources
+C:\Users\User\Documents\Rodrigo\C# (Scripts)\Script42_Episódio(98)\Script42_Episódio(98)\obj\Debug\Script42_Episódio_98_.Properties.Resources.resources
+C:\Users\User\Documents\Rodrigo\C# (Scripts)\Script42_Episódio(98)\Script42_Episódio(98)\obj\Debug\Script42_Episódio(98).csproj.GenerateResource.cache
+C:\Users\User\Documents\Rodrigo\C# (Scripts)\Script42_Episódio(98)\Script42_Episódio(98)\obj\Debug\Script42_Episódio(98).csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Rodrigo\C# (Scripts)\Script42_Episódio(98)\Script42_Episódio(98)\obj\Debug\Script42_Episódio(98).exe
+C:\Users\User\Documents\Rodrigo\C# (Scripts)\Script42_Episódio(98)\Script42_Episódio(98)\obj\Debug\Script42_Episódio(98).pdb
+C:\Users\User\Documents\Rodrigo\C# (Scripts)\Script42_Episódio(98)\Script42_Episódio(98)\bin\Debug\System.Data.SqlServerCe.dll
+C:\Users\User\Documents\Rodrigo\C# (Scripts)\Script42_Episódio(98)\Script42_Episódio(98)\bin\Debug\PT\System.Data.SqlServerCe.resources.dll
+C:\Users\User\Documents\Rodrigo\C# (Scripts)\Script42_Episódio(98)\Script42_Episódio(98)\obj\Debug\Script42_Episódio(98).csproj.CopyComplete
+C:\Users\User\Documents\Rodrigo\C# (Scripts)\Script42_Episódio(98)\Script42_Episódio(98)\obj\Debug\Script42_Episódio_98_.frmAdicionarEditar.resources
+C:\Users\User\Documents\Rodrigo\C# (Scripts)\Script42_Episódio(98)\Script42_Episódio(98)\obj\Debug\Script42_Episódio_98_.frmResultados.resources
+C:\Users\User\Documents\Rodrigo\C# (Scripts)\Script42_Episódio(98)\Script42_Episódio(98)\obj\Debug\Script42_Episódio_98_.frmPesquisa.resources

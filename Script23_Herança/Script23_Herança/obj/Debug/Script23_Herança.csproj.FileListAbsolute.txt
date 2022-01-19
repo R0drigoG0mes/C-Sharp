@@ -1,0 +1,10 @@
+C:\Users\User\Documents\Rodrigo\C# (Scripts)\Script23_Herança\Script23_Herança\bin\Debug\Script23_Herança.exe.config
+C:\Users\User\Documents\Rodrigo\C# (Scripts)\Script23_Herança\Script23_Herança\bin\Debug\Script23_Herança.exe
+C:\Users\User\Documents\Rodrigo\C# (Scripts)\Script23_Herança\Script23_Herança\bin\Debug\Script23_Herança.pdb
+C:\Users\User\Documents\Rodrigo\C# (Scripts)\Script23_Herança\Script23_Herança\obj\Debug\Script23_Herança.csprojAssemblyReference.cache
+C:\Users\User\Documents\Rodrigo\C# (Scripts)\Script23_Herança\Script23_Herança\obj\Debug\Script23_Herança.Form1.resources
+C:\Users\User\Documents\Rodrigo\C# (Scripts)\Script23_Herança\Script23_Herança\obj\Debug\Script23_Herança.Properties.Resources.resources
+C:\Users\User\Documents\Rodrigo\C# (Scripts)\Script23_Herança\Script23_Herança\obj\Debug\Script23_Herança.csproj.GenerateResource.cache
+C:\Users\User\Documents\Rodrigo\C# (Scripts)\Script23_Herança\Script23_Herança\obj\Debug\Script23_Herança.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Rodrigo\C# (Scripts)\Script23_Herança\Script23_Herança\obj\Debug\Script23_Herança.exe
+C:\Users\User\Documents\Rodrigo\C# (Scripts)\Script23_Herança\Script23_Herança\obj\Debug\Script23_Herança.pdb

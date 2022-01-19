@@ -1,0 +1,10 @@
+C:\Users\User\Documents\Rodrigo\C# (Scripts)\Script17_Campos\Script17_Campos\bin\Debug\Script17_Campos.exe.config
+C:\Users\User\Documents\Rodrigo\C# (Scripts)\Script17_Campos\Script17_Campos\bin\Debug\Script17_Campos.exe
+C:\Users\User\Documents\Rodrigo\C# (Scripts)\Script17_Campos\Script17_Campos\bin\Debug\Script17_Campos.pdb
+C:\Users\User\Documents\Rodrigo\C# (Scripts)\Script17_Campos\Script17_Campos\obj\Debug\Script17_Campos.csprojAssemblyReference.cache
+C:\Users\User\Documents\Rodrigo\C# (Scripts)\Script17_Campos\Script17_Campos\obj\Debug\Script17_Campos.Form1.resources
+C:\Users\User\Documents\Rodrigo\C# (Scripts)\Script17_Campos\Script17_Campos\obj\Debug\Script17_Campos.Properties.Resources.resources
+C:\Users\User\Documents\Rodrigo\C# (Scripts)\Script17_Campos\Script17_Campos\obj\Debug\Script17_Campos.csproj.GenerateResource.cache
+C:\Users\User\Documents\Rodrigo\C# (Scripts)\Script17_Campos\Script17_Campos\obj\Debug\Script17_Campos.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Rodrigo\C# (Scripts)\Script17_Campos\Script17_Campos\obj\Debug\Script17_Campos.exe
+C:\Users\User\Documents\Rodrigo\C# (Scripts)\Script17_Campos\Script17_Campos\obj\Debug\Script17_Campos.pdb

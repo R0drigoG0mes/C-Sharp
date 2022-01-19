@@ -1,0 +1,11 @@
+C:\Users\User\Documents\Rodrigo\C# (Scripts)\Script 26_Vários Formulários\Script 26_Vários Formulários\bin\Debug\Script 26_Vários Formulários.exe.config
+C:\Users\User\Documents\Rodrigo\C# (Scripts)\Script 26_Vários Formulários\Script 26_Vários Formulários\bin\Debug\Script 26_Vários Formulários.exe
+C:\Users\User\Documents\Rodrigo\C# (Scripts)\Script 26_Vários Formulários\Script 26_Vários Formulários\bin\Debug\Script 26_Vários Formulários.pdb
+C:\Users\User\Documents\Rodrigo\C# (Scripts)\Script 26_Vários Formulários\Script 26_Vários Formulários\obj\Debug\Script 26_Vários Formulários.csprojAssemblyReference.cache
+C:\Users\User\Documents\Rodrigo\C# (Scripts)\Script 26_Vários Formulários\Script 26_Vários Formulários\obj\Debug\Script_26_Vários_Formulários.frm1.resources
+C:\Users\User\Documents\Rodrigo\C# (Scripts)\Script 26_Vários Formulários\Script 26_Vários Formulários\obj\Debug\Script_26_Vários_Formulários.frmUm.resources
+C:\Users\User\Documents\Rodrigo\C# (Scripts)\Script 26_Vários Formulários\Script 26_Vários Formulários\obj\Debug\Script_26_Vários_Formulários.Properties.Resources.resources
+C:\Users\User\Documents\Rodrigo\C# (Scripts)\Script 26_Vários Formulários\Script 26_Vários Formulários\obj\Debug\Script 26_Vários Formulários.csproj.GenerateResource.cache
+C:\Users\User\Documents\Rodrigo\C# (Scripts)\Script 26_Vários Formulários\Script 26_Vários Formulários\obj\Debug\Script 26_Vários Formulários.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Rodrigo\C# (Scripts)\Script 26_Vários Formulários\Script 26_Vários Formulários\obj\Debug\Script 26_Vários Formulários.exe
+C:\Users\User\Documents\Rodrigo\C# (Scripts)\Script 26_Vários Formulários\Script 26_Vários Formulários\obj\Debug\Script 26_Vários Formulários.pdb

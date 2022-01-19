@@ -1,0 +1,10 @@
+C:\Users\User\Documents\Rodrigo\C# (Scripts)\Script33_Episodio(54)\Script33_Episodio(54)\bin\Debug\Script33_Episodio(54).exe.config
+C:\Users\User\Documents\Rodrigo\C# (Scripts)\Script33_Episodio(54)\Script33_Episodio(54)\bin\Debug\Script33_Episodio(54).exe
+C:\Users\User\Documents\Rodrigo\C# (Scripts)\Script33_Episodio(54)\Script33_Episodio(54)\bin\Debug\Script33_Episodio(54).pdb
+C:\Users\User\Documents\Rodrigo\C# (Scripts)\Script33_Episodio(54)\Script33_Episodio(54)\obj\Debug\Script33_Episodio(54).csprojAssemblyReference.cache
+C:\Users\User\Documents\Rodrigo\C# (Scripts)\Script33_Episodio(54)\Script33_Episodio(54)\obj\Debug\Script33_Episodio_54_.Form1.resources
+C:\Users\User\Documents\Rodrigo\C# (Scripts)\Script33_Episodio(54)\Script33_Episodio(54)\obj\Debug\Script33_Episodio_54_.Properties.Resources.resources
+C:\Users\User\Documents\Rodrigo\C# (Scripts)\Script33_Episodio(54)\Script33_Episodio(54)\obj\Debug\Script33_Episodio(54).csproj.GenerateResource.cache
+C:\Users\User\Documents\Rodrigo\C# (Scripts)\Script33_Episodio(54)\Script33_Episodio(54)\obj\Debug\Script33_Episodio(54).csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Rodrigo\C# (Scripts)\Script33_Episodio(54)\Script33_Episodio(54)\obj\Debug\Script33_Episodio(54).exe
+C:\Users\User\Documents\Rodrigo\C# (Scripts)\Script33_Episodio(54)\Script33_Episodio(54)\obj\Debug\Script33_Episodio(54).pdb

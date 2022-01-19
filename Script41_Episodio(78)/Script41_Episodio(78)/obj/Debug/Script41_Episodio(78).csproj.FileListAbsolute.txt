@@ -1,0 +1,13 @@
+C:\Users\User\Documents\Rodrigo\C# (Scripts)\Script41_Episodio(78)\Script41_Episodio(78)\bin\Debug\Script41_Episodio(78).exe.config
+C:\Users\User\Documents\Rodrigo\C# (Scripts)\Script41_Episodio(78)\Script41_Episodio(78)\bin\Debug\Script41_Episodio(78).exe
+C:\Users\User\Documents\Rodrigo\C# (Scripts)\Script41_Episodio(78)\Script41_Episodio(78)\bin\Debug\Script41_Episodio(78).pdb
+C:\Users\User\Documents\Rodrigo\C# (Scripts)\Script41_Episodio(78)\Script41_Episodio(78)\bin\Debug\System.Data.SqlServerCe.dll
+C:\Users\User\Documents\Rodrigo\C# (Scripts)\Script41_Episodio(78)\Script41_Episodio(78)\bin\Debug\PT\System.Data.SqlServerCe.resources.dll
+C:\Users\User\Documents\Rodrigo\C# (Scripts)\Script41_Episodio(78)\Script41_Episodio(78)\obj\Debug\Script41_Episodio(78).csprojAssemblyReference.cache
+C:\Users\User\Documents\Rodrigo\C# (Scripts)\Script41_Episodio(78)\Script41_Episodio(78)\obj\Debug\Script41_Episodio_78_.Form1.resources
+C:\Users\User\Documents\Rodrigo\C# (Scripts)\Script41_Episodio(78)\Script41_Episodio(78)\obj\Debug\Script41_Episodio_78_.Properties.Resources.resources
+C:\Users\User\Documents\Rodrigo\C# (Scripts)\Script41_Episodio(78)\Script41_Episodio(78)\obj\Debug\Script41_Episodio(78).csproj.GenerateResource.cache
+C:\Users\User\Documents\Rodrigo\C# (Scripts)\Script41_Episodio(78)\Script41_Episodio(78)\obj\Debug\Script41_Episodio(78).csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Rodrigo\C# (Scripts)\Script41_Episodio(78)\Script41_Episodio(78)\obj\Debug\Script41_Episodio(78).csproj.CopyComplete
+C:\Users\User\Documents\Rodrigo\C# (Scripts)\Script41_Episodio(78)\Script41_Episodio(78)\obj\Debug\Script41_Episodio(78).exe
+C:\Users\User\Documents\Rodrigo\C# (Scripts)\Script41_Episodio(78)\Script41_Episodio(78)\obj\Debug\Script41_Episodio(78).pdb

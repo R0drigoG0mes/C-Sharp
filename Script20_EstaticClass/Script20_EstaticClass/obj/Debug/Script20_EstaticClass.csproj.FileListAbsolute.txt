@@ -1,0 +1,10 @@
+C:\Users\User\Documents\Rodrigo\C# (Scripts)\Script20_EstaticClass\Script20_EstaticClass\bin\Debug\Script20_EstaticClass.exe.config
+C:\Users\User\Documents\Rodrigo\C# (Scripts)\Script20_EstaticClass\Script20_EstaticClass\bin\Debug\Script20_EstaticClass.exe
+C:\Users\User\Documents\Rodrigo\C# (Scripts)\Script20_EstaticClass\Script20_EstaticClass\bin\Debug\Script20_EstaticClass.pdb
+C:\Users\User\Documents\Rodrigo\C# (Scripts)\Script20_EstaticClass\Script20_EstaticClass\obj\Debug\Script20_EstaticClass.csprojAssemblyReference.cache
+C:\Users\User\Documents\Rodrigo\C# (Scripts)\Script20_EstaticClass\Script20_EstaticClass\obj\Debug\Script20_EstaticClass.Form1.resources
+C:\Users\User\Documents\Rodrigo\C# (Scripts)\Script20_EstaticClass\Script20_EstaticClass\obj\Debug\Script20_EstaticClass.Properties.Resources.resources
+C:\Users\User\Documents\Rodrigo\C# (Scripts)\Script20_EstaticClass\Script20_EstaticClass\obj\Debug\Script20_EstaticClass.csproj.GenerateResource.cache
+C:\Users\User\Documents\Rodrigo\C# (Scripts)\Script20_EstaticClass\Script20_EstaticClass\obj\Debug\Script20_EstaticClass.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Rodrigo\C# (Scripts)\Script20_EstaticClass\Script20_EstaticClass\obj\Debug\Script20_EstaticClass.exe
+C:\Users\User\Documents\Rodrigo\C# (Scripts)\Script20_EstaticClass\Script20_EstaticClass\obj\Debug\Script20_EstaticClass.pdb

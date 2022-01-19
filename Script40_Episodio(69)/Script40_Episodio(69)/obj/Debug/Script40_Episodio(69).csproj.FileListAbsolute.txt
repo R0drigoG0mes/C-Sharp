@@ -1,0 +1,13 @@
+C:\Users\User\Documents\Rodrigo\C# (Scripts)\Script40_Episodio(69)\Script40_Episodio(69)\bin\Debug\Script40_Episodio(69).exe.config
+C:\Users\User\Documents\Rodrigo\C# (Scripts)\Script40_Episodio(69)\Script40_Episodio(69)\bin\Debug\Script40_Episodio(69).exe
+C:\Users\User\Documents\Rodrigo\C# (Scripts)\Script40_Episodio(69)\Script40_Episodio(69)\bin\Debug\Script40_Episodio(69).pdb
+C:\Users\User\Documents\Rodrigo\C# (Scripts)\Script40_Episodio(69)\Script40_Episodio(69)\obj\Debug\Script40_Episodio(69).csprojAssemblyReference.cache
+C:\Users\User\Documents\Rodrigo\C# (Scripts)\Script40_Episodio(69)\Script40_Episodio(69)\obj\Debug\Script40_Episodio_69_.frmMenu.resources
+C:\Users\User\Documents\Rodrigo\C# (Scripts)\Script40_Episodio(69)\Script40_Episodio(69)\obj\Debug\Script40_Episodio_69_.Properties.Resources.resources
+C:\Users\User\Documents\Rodrigo\C# (Scripts)\Script40_Episodio(69)\Script40_Episodio(69)\obj\Debug\Script40_Episodio(69).csproj.GenerateResource.cache
+C:\Users\User\Documents\Rodrigo\C# (Scripts)\Script40_Episodio(69)\Script40_Episodio(69)\obj\Debug\Script40_Episodio(69).csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Rodrigo\C# (Scripts)\Script40_Episodio(69)\Script40_Episodio(69)\obj\Debug\Script40_Episodio(69).exe
+C:\Users\User\Documents\Rodrigo\C# (Scripts)\Script40_Episodio(69)\Script40_Episodio(69)\obj\Debug\Script40_Episodio(69).pdb
+C:\Users\User\Documents\Rodrigo\C# (Scripts)\Script40_Episodio(69)\Script40_Episodio(69)\obj\Debug\Script40_Episodio_69_.frmInserirEditar.resources
+C:\Users\User\Documents\Rodrigo\C# (Scripts)\Script40_Episodio(69)\Script40_Episodio(69)\obj\Debug\Script40_Episodio_69_.frmTexto.resources
+C:\Users\User\Documents\Rodrigo\C# (Scripts)\Script40_Episodio(69)\Script40_Episodio(69)\obj\Debug\Script40_Episodio_69_.frmResultados.resources

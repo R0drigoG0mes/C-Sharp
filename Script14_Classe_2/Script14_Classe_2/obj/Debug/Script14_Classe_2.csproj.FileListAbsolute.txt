@@ -1,0 +1,10 @@
+C:\Users\User\Documents\Rodrigo\C# (Scripts)\Script14_Classe_2\Script14_Classe_2\bin\Debug\Script14_Classe_2.exe.config
+C:\Users\User\Documents\Rodrigo\C# (Scripts)\Script14_Classe_2\Script14_Classe_2\bin\Debug\Script14_Classe_2.exe
+C:\Users\User\Documents\Rodrigo\C# (Scripts)\Script14_Classe_2\Script14_Classe_2\bin\Debug\Script14_Classe_2.pdb
+C:\Users\User\Documents\Rodrigo\C# (Scripts)\Script14_Classe_2\Script14_Classe_2\obj\Debug\Script14_Classe_2.csprojAssemblyReference.cache
+C:\Users\User\Documents\Rodrigo\C# (Scripts)\Script14_Classe_2\Script14_Classe_2\obj\Debug\Script14_Classe_2.Form1.resources
+C:\Users\User\Documents\Rodrigo\C# (Scripts)\Script14_Classe_2\Script14_Classe_2\obj\Debug\Script14_Classe_2.Properties.Resources.resources
+C:\Users\User\Documents\Rodrigo\C# (Scripts)\Script14_Classe_2\Script14_Classe_2\obj\Debug\Script14_Classe_2.csproj.GenerateResource.cache
+C:\Users\User\Documents\Rodrigo\C# (Scripts)\Script14_Classe_2\Script14_Classe_2\obj\Debug\Script14_Classe_2.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Rodrigo\C# (Scripts)\Script14_Classe_2\Script14_Classe_2\obj\Debug\Script14_Classe_2.exe
+C:\Users\User\Documents\Rodrigo\C# (Scripts)\Script14_Classe_2\Script14_Classe_2\obj\Debug\Script14_Classe_2.pdb

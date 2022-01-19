@@ -1,0 +1,9 @@
+C:\Users\User\Documents\Rodrigo\C# (Scripts)\Script48_Episodio(152)_Imagens2\Script48_Episodio(152)_Imagens2\bin\Debug\Script48_Episodio(152)_Imagens2.exe
+C:\Users\User\Documents\Rodrigo\C# (Scripts)\Script48_Episodio(152)_Imagens2\Script48_Episodio(152)_Imagens2\bin\Debug\Script48_Episodio(152)_Imagens2.pdb
+C:\Users\User\Documents\Rodrigo\C# (Scripts)\Script48_Episodio(152)_Imagens2\Script48_Episodio(152)_Imagens2\obj\Debug\Script48_Episodio_152__Imagens2.Form1.resources
+C:\Users\User\Documents\Rodrigo\C# (Scripts)\Script48_Episodio(152)_Imagens2\Script48_Episodio(152)_Imagens2\obj\Debug\Script48_Episodio_152__Imagens2.Properties.Resources.resources
+C:\Users\User\Documents\Rodrigo\C# (Scripts)\Script48_Episodio(152)_Imagens2\Script48_Episodio(152)_Imagens2\obj\Debug\Script48_Episodio(152)_Imagens2.csproj.GenerateResource.cache
+C:\Users\User\Documents\Rodrigo\C# (Scripts)\Script48_Episodio(152)_Imagens2\Script48_Episodio(152)_Imagens2\obj\Debug\Script48_Episodio(152)_Imagens2.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Rodrigo\C# (Scripts)\Script48_Episodio(152)_Imagens2\Script48_Episodio(152)_Imagens2\obj\Debug\Script48_Episodio(152)_Imagens2.exe
+C:\Users\User\Documents\Rodrigo\C# (Scripts)\Script48_Episodio(152)_Imagens2\Script48_Episodio(152)_Imagens2\obj\Debug\Script48_Episodio(152)_Imagens2.pdb
+C:\Users\User\Documents\Rodrigo\C# (Scripts)\Script48_Episodio(152)_Imagens2\Script48_Episodio(152)_Imagens2\obj\Debug\Script48_Episodio_152__Imagens2.SeparadorHorizontal.resources

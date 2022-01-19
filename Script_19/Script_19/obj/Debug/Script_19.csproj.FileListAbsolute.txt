@@ -1,0 +1,10 @@
+C:\Users\User\Documents\Rodrigo\C# (Scripts)\Script_19\Script_19\bin\Debug\Script_19.exe.config
+C:\Users\User\Documents\Rodrigo\C# (Scripts)\Script_19\Script_19\bin\Debug\Script_19.exe
+C:\Users\User\Documents\Rodrigo\C# (Scripts)\Script_19\Script_19\bin\Debug\Script_19.pdb
+C:\Users\User\Documents\Rodrigo\C# (Scripts)\Script_19\Script_19\obj\Debug\Script_19.Form1.resources
+C:\Users\User\Documents\Rodrigo\C# (Scripts)\Script_19\Script_19\obj\Debug\Script_19.Properties.Resources.resources
+C:\Users\User\Documents\Rodrigo\C# (Scripts)\Script_19\Script_19\obj\Debug\Script_19.csproj.GenerateResource.cache
+C:\Users\User\Documents\Rodrigo\C# (Scripts)\Script_19\Script_19\obj\Debug\Script_19.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Rodrigo\C# (Scripts)\Script_19\Script_19\obj\Debug\Script_19.exe
+C:\Users\User\Documents\Rodrigo\C# (Scripts)\Script_19\Script_19\obj\Debug\Script_19.pdb
+C:\Users\User\Documents\Rodrigo\C# (Scripts)\Script_19\Script_19\obj\Debug\Script_19.csprojAssemblyReference.cache

@@ -1,0 +1,10 @@
+C:\Users\User\Documents\Rodrigo\C# (Scripts)\Script23_polimorfismo\Script23_polimorfismo\bin\Debug\Script23_polimorfismo.exe.config
+C:\Users\User\Documents\Rodrigo\C# (Scripts)\Script23_polimorfismo\Script23_polimorfismo\bin\Debug\Script23_polimorfismo.exe
+C:\Users\User\Documents\Rodrigo\C# (Scripts)\Script23_polimorfismo\Script23_polimorfismo\bin\Debug\Script23_polimorfismo.pdb
+C:\Users\User\Documents\Rodrigo\C# (Scripts)\Script23_polimorfismo\Script23_polimorfismo\obj\Debug\Script23_polimorfismo.csprojAssemblyReference.cache
+C:\Users\User\Documents\Rodrigo\C# (Scripts)\Script23_polimorfismo\Script23_polimorfismo\obj\Debug\Script23_polimorfismo.Form1.resources
+C:\Users\User\Documents\Rodrigo\C# (Scripts)\Script23_polimorfismo\Script23_polimorfismo\obj\Debug\Script23_polimorfismo.Properties.Resources.resources
+C:\Users\User\Documents\Rodrigo\C# (Scripts)\Script23_polimorfismo\Script23_polimorfismo\obj\Debug\Script23_polimorfismo.csproj.GenerateResource.cache
+C:\Users\User\Documents\Rodrigo\C# (Scripts)\Script23_polimorfismo\Script23_polimorfismo\obj\Debug\Script23_polimorfismo.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Rodrigo\C# (Scripts)\Script23_polimorfismo\Script23_polimorfismo\obj\Debug\Script23_polimorfismo.exe
+C:\Users\User\Documents\Rodrigo\C# (Scripts)\Script23_polimorfismo\Script23_polimorfismo\obj\Debug\Script23_polimorfismo.pdb

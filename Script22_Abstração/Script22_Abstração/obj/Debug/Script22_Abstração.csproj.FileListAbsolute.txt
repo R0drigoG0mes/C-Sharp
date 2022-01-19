@@ -1,0 +1,10 @@
+C:\Users\User\Documents\Rodrigo\C# (Scripts)\Script22_Abstração\Script22_Abstração\bin\Debug\Script22_Abstração.exe.config
+C:\Users\User\Documents\Rodrigo\C# (Scripts)\Script22_Abstração\Script22_Abstração\bin\Debug\Script22_Abstração.exe
+C:\Users\User\Documents\Rodrigo\C# (Scripts)\Script22_Abstração\Script22_Abstração\bin\Debug\Script22_Abstração.pdb
+C:\Users\User\Documents\Rodrigo\C# (Scripts)\Script22_Abstração\Script22_Abstração\obj\Debug\Script22_Abstração.csprojAssemblyReference.cache
+C:\Users\User\Documents\Rodrigo\C# (Scripts)\Script22_Abstração\Script22_Abstração\obj\Debug\Script22_Abstração.Form1.resources
+C:\Users\User\Documents\Rodrigo\C# (Scripts)\Script22_Abstração\Script22_Abstração\obj\Debug\Script22_Abstração.Properties.Resources.resources
+C:\Users\User\Documents\Rodrigo\C# (Scripts)\Script22_Abstração\Script22_Abstração\obj\Debug\Script22_Abstração.csproj.GenerateResource.cache
+C:\Users\User\Documents\Rodrigo\C# (Scripts)\Script22_Abstração\Script22_Abstração\obj\Debug\Script22_Abstração.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Rodrigo\C# (Scripts)\Script22_Abstração\Script22_Abstração\obj\Debug\Script22_Abstração.exe
+C:\Users\User\Documents\Rodrigo\C# (Scripts)\Script22_Abstração\Script22_Abstração\obj\Debug\Script22_Abstração.pdb

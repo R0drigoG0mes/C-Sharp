@@ -1,0 +1,9 @@
+C:\Users\User\Documents\Rodrigo\C# (Scripts)\Script49_Episodio(155)_Impressão\Script49_Episodio(155)_Impressão\bin\Debug\Script49_Episodio(155)_Impressão.exe
+C:\Users\User\Documents\Rodrigo\C# (Scripts)\Script49_Episodio(155)_Impressão\Script49_Episodio(155)_Impressão\bin\Debug\Script49_Episodio(155)_Impressão.pdb
+C:\Users\User\Documents\Rodrigo\C# (Scripts)\Script49_Episodio(155)_Impressão\Script49_Episodio(155)_Impressão\obj\Debug\Script49_Episodio(155)_Impressão.csprojAssemblyReference.cache
+C:\Users\User\Documents\Rodrigo\C# (Scripts)\Script49_Episodio(155)_Impressão\Script49_Episodio(155)_Impressão\obj\Debug\Script49_Episodio_155__Impressão.Form1.resources
+C:\Users\User\Documents\Rodrigo\C# (Scripts)\Script49_Episodio(155)_Impressão\Script49_Episodio(155)_Impressão\obj\Debug\Script49_Episodio_155__Impressão.Properties.Resources.resources
+C:\Users\User\Documents\Rodrigo\C# (Scripts)\Script49_Episodio(155)_Impressão\Script49_Episodio(155)_Impressão\obj\Debug\Script49_Episodio(155)_Impressão.csproj.GenerateResource.cache
+C:\Users\User\Documents\Rodrigo\C# (Scripts)\Script49_Episodio(155)_Impressão\Script49_Episodio(155)_Impressão\obj\Debug\Script49_Episodio(155)_Impressão.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Rodrigo\C# (Scripts)\Script49_Episodio(155)_Impressão\Script49_Episodio(155)_Impressão\obj\Debug\Script49_Episodio(155)_Impressão.exe
+C:\Users\User\Documents\Rodrigo\C# (Scripts)\Script49_Episodio(155)_Impressão\Script49_Episodio(155)_Impressão\obj\Debug\Script49_Episodio(155)_Impressão.pdb

@@ -1,0 +1,11 @@
+C:\Users\User\Documents\Rodrigo\C# (Scripts)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\User\Documents\Rodrigo\C# (Scripts)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\User\Documents\Rodrigo\C# (Scripts)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\User\Documents\Rodrigo\C# (Scripts)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Script29_Episodio(49).csprojAssemblyReference.cache
+C:\Users\User\Documents\Rodrigo\C# (Scripts)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmMain.resources
+C:\Users\User\Documents\Rodrigo\C# (Scripts)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmUm.resources
+C:\Users\User\Documents\Rodrigo\C# (Scripts)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\User\Documents\Rodrigo\C# (Scripts)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Script29_Episodio(49).csproj.GenerateResource.cache
+C:\Users\User\Documents\Rodrigo\C# (Scripts)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Script29_Episodio(49).csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Rodrigo\C# (Scripts)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\User\Documents\Rodrigo\C# (Scripts)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb

@@ -1,0 +1,10 @@
+C:\Users\User\Documents\Rodrigo\C# (Scripts)\Script09_Matemática\Script09_Matemática\bin\Debug\Script09_Matemática.exe.config
+C:\Users\User\Documents\Rodrigo\C# (Scripts)\Script09_Matemática\Script09_Matemática\bin\Debug\Script09_Matemática.exe
+C:\Users\User\Documents\Rodrigo\C# (Scripts)\Script09_Matemática\Script09_Matemática\bin\Debug\Script09_Matemática.pdb
+C:\Users\User\Documents\Rodrigo\C# (Scripts)\Script09_Matemática\Script09_Matemática\obj\Debug\Script09_Matemática.csprojAssemblyReference.cache
+C:\Users\User\Documents\Rodrigo\C# (Scripts)\Script09_Matemática\Script09_Matemática\obj\Debug\Script09_Matemática.Form1.resources
+C:\Users\User\Documents\Rodrigo\C# (Scripts)\Script09_Matemática\Script09_Matemática\obj\Debug\Script09_Matemática.Properties.Resources.resources
+C:\Users\User\Documents\Rodrigo\C# (Scripts)\Script09_Matemática\Script09_Matemática\obj\Debug\Script09_Matemática.csproj.GenerateResource.cache
+C:\Users\User\Documents\Rodrigo\C# (Scripts)\Script09_Matemática\Script09_Matemática\obj\Debug\Script09_Matemática.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Rodrigo\C# (Scripts)\Script09_Matemática\Script09_Matemática\obj\Debug\Script09_Matemática.exe
+C:\Users\User\Documents\Rodrigo\C# (Scripts)\Script09_Matemática\Script09_Matemática\obj\Debug\Script09_Matemática.pdb
